@@ -1,4 +1,8 @@
 coverage
 node_modules
 
+# libraries shouldn't have lock files
+package-lock.json
+yarn.lock
+
 .*.sw*
